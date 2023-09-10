@@ -1,5 +1,11 @@
 ### Hi there 👋
+-💻I'm currently working on **NESC 3505** Neural Data Science assignments
 
+-💡I'm interested in becoming proficient at coding in Python
+
+-✨My pronouns are she/her
+
+-🧘My hobbies are yoga and travelling to new places 
 <!--
 **MarillaHulls/MarillaHulls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
